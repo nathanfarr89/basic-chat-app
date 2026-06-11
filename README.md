@@ -1,0 +1,1 @@
+To run the chatbot, change the .env.example to .env and insert your OpenAI api key and then run npm start
